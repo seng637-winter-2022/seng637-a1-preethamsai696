@@ -69,10 +69,23 @@ There are four steps involved in the exploratory testing process:
 4.	Analysis
 
 **Learn**
+
 It is the initial stage of testing where the tester learns about the faults or issues in the software and uses his/her skill and experience to observe what kind of problem the software is facing and tries to solve them.
 
 **Test Case Creation**
+
 In this, the tester identifies the problem faced by the software. In the test case creation, the tester develops the test case according to the defects, to test the software. Test cases are designed by keeping in mind the problems faced by the end-users.
+
+**Test Case Execution**
+
+After the creation of test cases based on the problems, the tester will run the test cases. Test case execution is very essential in any testing process. It includes the computational and operational tasks performed by the software to get the desired output.
+
+**Analysis**
+
+After the execution of test cases, the output is analyzed and observed whether the software is working properly or not. If the defects are found, the above three steps are performed again, and the problems are solved. This is the cyclic process that is performed until all the bugs are removed and the software is released without any faults in the market.
+  
+By keeping these basic principles in mind, our team has designed a high-level exploratory testing plan to find out the bugs present in the software. The developed test plan has been represented in the figure 1.
+
 
 # Comparison of exploratory and manual functional testing
 Text…
