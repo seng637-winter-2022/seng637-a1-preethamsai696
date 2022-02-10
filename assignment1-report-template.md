@@ -43,6 +43,11 @@ There are different types in manual testing which include:
 5.	Integration Testing
 6.	Acceptance Testing
 
+**Regression Testing**
+
+Regression testing is a powerful testing practice that ensures to run the application as per the prediction after bug fixes that have been detected before. This testing type is mainly responsible for running the application with stability and at its full functionality. To make developments and integrate changes in the applications, developed applications or software’s must go through multiple tests. Regression testing is the final step before delivering the application.
+
+After doing new modifications to the code, this testing is responsible to ensure that the system stays sustainable under continuous improvements. These modifications might include bug fixes such as defects. This code mainly targets the bugs that were previously present in the version code before bug fixes, so that the updated code remains operational after new changes. 
 
 
 
