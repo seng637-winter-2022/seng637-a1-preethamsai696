@@ -3,7 +3,7 @@
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
 | Group \#:  17     |   |UCID|
-|-----------------|---|
+|-----------------|---|------|
 | Student Names:  | Sai Preetham Chakka  |30111565|
 |                 | Karhik Kumar Reddy Gangireddy  |30111566|
 |                 | Chandrahas Reddy Pola  |30140068|
