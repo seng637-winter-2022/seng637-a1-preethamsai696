@@ -28,7 +28,22 @@ Furthermore, the ATM Machine displays different transaction types to choose from
 
 **Exploratory Testing**
 
-Exploratory testing is a type of software testing wherein we focus mainly on simultaneous learning, test design and execution. It primarily focuses on the discovery and relies on the guidance of the individual tester to uncover defects that are not easily covered in the space of other tests. Exploratory testing is an unorganized kind of testing where we don’t follow any order for performing the test cases.
+Exploratory testing is a type of software testing where we focus mainly on simultaneous learning, test design and execution. It primarily focuses on the discovery and relies on the guidance of the individual tester to uncover defects that are not easily covered in the space of other tests. Exploratory testing is an unorganized kind of testing where we don’t follow any order for performing the test cases.
+
+**Manual Testing**
+
+Manual testing is the type of software testing where we can test the test cases manually without any automated tools. By performing manual testing, we can find out bugs, issues, and defects in the software application. Manual testing is a primitive technique where we can find critical bugs in the software. Any application should be manually tested to be automated. Manual testing requires more effort compared to automated testing. Manual testing doesn’t require any knowledge of any testing tools. Testing checks the quality of the system and delivers the bug-free product to the customer.
+
+There are different types in manual testing which include:
+
+1.	Black box testing
+2.	White-box testing
+3.	Unit testing
+4.	System testing
+5.	Integration Testing
+6.	Acceptance Testing
+
+
 
 
 
