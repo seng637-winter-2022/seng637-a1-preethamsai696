@@ -54,9 +54,7 @@ After doing new modifications to the code, this testing is responsible to ensure
 
 # Link of demo video 
 
-Make a video of the demo and put its link here.
-All members must participate in the demo and the video should not be longer than 10 minutes.
-
+https://drive.google.com/file/d/1tXpeBcuJLl76H7X6SunkZTJJXqzcj8yc/view?usp=sharing
 
 # High-level description of the exploratory testing plan
 
