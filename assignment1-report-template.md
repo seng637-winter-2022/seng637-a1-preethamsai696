@@ -86,7 +86,7 @@ After the execution of test cases, the output is analyzed and observed whether t
   
 By keeping these basic principles in mind, our team has designed a high-level exploratory testing plan to find out the bugs present in the software. The developed test plan has been represented in the figure 1. Every step in the exploratory test plan has been tested and the respective bugs have been reordered in the backlog tool.
 
-![Block Diagram](https://github.com/seng637-winter-2022/seng637-a1-preethamsai696/blob/main/Images/Paint%20File.png)
+![Block Diagram](https://github.com/seng637-winter-2022/seng637-a1-preethamsai696/blob/main/Images/Block%20Diagram.png)
 
 # Comparison of exploratory and manual functional testing
 Generally, in manual testing, we must follow a particular procedure to perform the test cases and it is the initial stage of testing. Were as exploratory testing is treated as an informal test design technique in which learning, test design and execution are done simultaneously. Exploratory testing mostly relies on the testers ability to uncover most of the bugs and issues that were not discovered during any other testing. These tests mainly depend on the tester’s skillset, availability of time for testing the application or software and the tools (environments) that are available for testing.   Few comparisons between exploratory testing and manual testing are given in table 1.
