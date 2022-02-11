@@ -91,7 +91,7 @@ By keeping these basic principles in mind, our team has designed a high-level ex
 # Comparison of exploratory and manual functional testing
 Generally, in manual testing, we must follow a particular procedure to perform the test cases and it is the initial stage of testing. Were as exploratory testing is treated as an informal test design technique in which learning, test design and execution are done simultaneously. Exploratory testing mostly relies on the testers ability to uncover most of the bugs and issues that were not discovered during any other testing. These tests mainly depend on the tester’s skillset, availability of time for testing the application or software and the tools (environments) that are available for testing.   Few comparisons between exploratory testing and manual testing are given in table 1.
 
-![Comparision Table](https://github.com/seng637-winter-2022/seng637-a1-preethamsai696/blob/main/Images/comparision%20table.png)
+![Comparision Table](https://github.com/seng637-winter-2022/seng637-a1-preethamsai696/blob/main/Images/Comaprision%20between%20Exploratory%20Testing%20and%20Manual%20Testing.png)
 
 # Notes and discussion of the peer reviews of defect reports
 
