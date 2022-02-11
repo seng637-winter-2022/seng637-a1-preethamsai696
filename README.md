@@ -4,4 +4,4 @@ Lab report in .md format is named as 'Group 17 - Assignment 1 - SENG 637 - Lab R
 
 Backlog Excel Sheet is named as 'Group 17 - SENG 637 - Assignment 1 - Backlog File'
 
-Lab report in pdf format is named as 'Group 17 - SENG 637 - Assignment 1 - Lab Report'
+Lab report in pdf format is named as 'Group 17 - SENG 637 - Assignment 1 - Lab Report.pdf'
